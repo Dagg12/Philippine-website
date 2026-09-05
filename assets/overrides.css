@@ -1,3 +1,7 @@
+.site-shell {
+  isolation: isolate;
+}
+
 .site-shell::before {
   background:
     linear-gradient(180deg, rgba(16, 10, 9, 0.48), rgba(16, 10, 9, 0.12) 20%, rgba(20, 16, 15, 0.36) 100%),
