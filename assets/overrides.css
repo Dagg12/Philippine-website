@@ -1,0 +1,85 @@
+.site-shell::before {
+  background:
+    linear-gradient(180deg, rgba(16, 10, 9, 0.48), rgba(16, 10, 9, 0.12) 20%, rgba(20, 16, 15, 0.36) 100%),
+    url("../products/background.png") center center / cover no-repeat;
+  background-attachment: fixed;
+}
+
+.product-card {
+  text-align: center;
+}
+
+.product-meta {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-height: 58px;
+  padding: 0 52px 0 12px;
+}
+
+.product-meta > div {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.product-meta h3,
+.product-notes {
+  text-align: center;
+}
+
+.product-notes {
+  max-width: 28ch;
+  margin: 8px auto 0;
+}
+
+.product-meta .round-button {
+  position: absolute;
+  top: 50%;
+  right: 6px;
+  transform: translateY(-50%);
+}
+
+.product-tag {
+  background: rgba(25, 18, 15, 0.82);
+  border: 1px solid rgba(243, 227, 199, 0.52);
+  color: #fff8f0;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.22);
+}
+
+.fav-button {
+  background: rgba(25, 18, 15, 0.82);
+  border-color: rgba(243, 227, 199, 0.52);
+  color: #fff8f0;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.22);
+}
+
+.fav-button:hover,
+.fav-button.liked {
+  background: rgba(92, 32, 49, 0.94);
+  border-color: #e7b4a4;
+  color: #fff8f0;
+}
+
+.modal-panel {
+  background: linear-gradient(135deg, rgba(20, 15, 13, 0.98), rgba(35, 26, 22, 0.98));
+  border: 1px solid rgba(205, 177, 140, 0.22);
+}
+
+.modal-copy {
+  background: rgba(18, 14, 12, 0.97);
+  color: #f6efe9;
+}
+
+.modal-copy h3 {
+  color: #f9f2eb;
+}
+
+.modal-copy p {
+  color: rgba(246, 239, 233, 0.88);
+}
+
+.modal-copy .section-kicker {
+  color: #d7b076;
+}
