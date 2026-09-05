@@ -1,195 +1,170 @@
-# ✨ Nare & Philippine — Fragrance House
-
-### 🌸 Luxury Fragrance Website · Freelance Client Project
+# Nare & Philippine — Fragrance House
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Freelance%20Client-8B5E83?style=for-the-badge" alt="Freelance Client Project">
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Build-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Design-Responsive-9B7EDE?style=for-the-badge" alt="Responsive Design">
-  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="Proprietary License">
+  <img src="https://img.shields.io/badge/Responsive-Yes-6D597A?style=for-the-badge" alt="Responsive">
+  <img src="https://img.shields.io/badge/License-Proprietary-8B0000?style=for-the-badge" alt="Proprietary License">
   <img src="https://img.shields.io/badge/Status-Live-2EA44F?style=for-the-badge" alt="Live">
 </p>
 
 <p align="center">
-  <strong>A cinematic digital experience created to give an emerging fragrance brand a premium online presence.</strong>
+  <strong>A cinematic luxury fragrance experience designed and developed as a freelance client project.</strong>
 </p>
 
 <p align="center">
-  🌐 <strong><a href="https://dagg12.github.io/Philippine-website/">View Live Website</a></strong>
+  <a href="https://dagg12.github.io/Philippine-website/">View Live Website</a> ·
+  <a href="https://github.com/Dagg12/Philippine-website">View Repository</a> ·
+  <a href="LICENSE">Read License</a>
 </p>
 
-> 🔒 **PROPRIETARY CLIENT PROJECT — ALL RIGHTS RESERVED**
+> **PROPRIETARY CLIENT PROJECT — ALL RIGHTS RESERVED**
 >
-> This repository is maintained for portfolio and demonstration purposes. The website, source code, client photography, branding and business materials may not be copied, reproduced, redistributed, resold or reused without written permission. See [`LICENSE`](LICENSE) for the full terms.
+> This repository is publicly visible for portfolio and demonstration purposes. The website, source code, client photography, branding and business materials may not be copied, reproduced, redistributed, resold or commercially reused without written permission. See [`LICENSE`](LICENSE).
 
 ---
 
-## 💎 About The Project
+## Website Preview
 
-**Nare & Philippine Fragrance House** is a luxury-inspired perfume brand website developed as a freelance client project.
+The following previews are generated from the live deployed website so visitors can see the actual project directly from the repository.
+
+### Desktop Experience
+
+<p align="center">
+  <a href="https://dagg12.github.io/Philippine-website/">
+    <img src="https://image.thum.io/get/width/1200/crop/900/png/https://dagg12.github.io/Philippine-website/" alt="Nare and Philippine Fragrance House desktop website screenshot" width="100%">
+  </a>
+</p>
+
+### Mobile Experience
+
+<p align="center">
+  <a href="https://dagg12.github.io/Philippine-website/">
+    <img src="https://image.thum.io/get/width/600/crop/1200/png/https://dagg12.github.io/Philippine-website/" alt="Nare and Philippine Fragrance House mobile website screenshot" width="55%">
+  </a>
+</p>
+
+> **Live preview:** [dagg12.github.io/Philippine-website](https://dagg12.github.io/Philippine-website/)
+
+---
+
+## About the Project
+
+**Nare & Philippine Fragrance House** is a luxury-inspired perfume website developed to establish a strong digital presence for the client and create a direct path from fragrance discovery to customer enquiry.
 
 The project combines:
 
-🎨 **UI/UX Design** · 💻 **React Development** · ✨ **Motion Design** · 🌸 **Visual Art Direction** · 📱 **Responsive Development** · 💬 **WhatsApp Conversion**
+- UI/UX design
+- React frontend development
+- Responsive web development
+- Visual art direction
+- Motion and interaction design
+- Product presentation
+- WhatsApp customer conversion
 
-The objective was to create a website that feels **alive, elegant and premium**, while making it easy for potential customers to discover fragrances and contact the business.
-
----
-
-## 🌐 Live Website
-
-### 👉 [Visit Nare & Philippine Fragrance House](https://dagg12.github.io/Philippine-website/)
-
-The website is deployed using **GitHub Pages**.
+The goal was to create an experience that feels closer to a **luxury fragrance campaign** than a conventional catalogue.
 
 ---
 
-## ✨ Design Philosophy
+## Design Direction
 
-> **The website should feel like entering a fragrance campaign — not browsing a catalogue.**
+The visual system combines editorial fragrance photography with botanical atmosphere, cinematic composition and a contemporary luxury palette.
 
-The experience combines:
-
-🌹 Botanical visuals · 🦋 Atmospheric movement · 🌫️ Fragrance-inspired mist · ✨ Cinematic lighting · 💎 Luxury typography · 📸 Product photography · 📱 Responsive interactions
-
-The visual language combines **modern luxury, editorial photography and botanical elegance**.
-
----
-
-## 🌸 Key Features
-
-### 🏠 Cinematic Hero Experience
-
-- Premium perfume imagery
-- Luxury typography
-- Atmospheric backgrounds
-- Layered visual effects
-- Strong calls-to-action
-- Responsive composition
-
-### 🌺 Interactive Botanical Atmosphere
-
-- ✨ Ambient particles
-- 🌫️ Atmospheric effects
-- 💡 Soft lighting
-
-### 🦋 Living Visual Effects
-
-Animated environmental elements provide natural movement, depth, visual storytelling, subtle parallax and interactive transitions.
-
-### 🌫️ Fragrance-Inspired Mist
-
-A soft atmospheric effect is used around the fragrance environment to suggest perfume dispersing through the air without overwhelming the product photography.
+| Visual Direction | Implementation |
+|---|---|
+| Botanical atmosphere | Flowers, foliage and organic decoration |
+| Editorial presentation | Large imagery, whitespace and premium typography |
+| Atmospheric depth | Mist, particles and layered backgrounds |
+| Luxury palette | Ivory, blush, rose, burgundy, plum, botanical green and champagne |
+| Conversion | Clear fragrance discovery and WhatsApp enquiry paths |
 
 ---
 
-## 🧴 Product Showcase
+## Key Features
 
-The supplied client perfume photography is used as the foundation of the product experience.
+### Cinematic Hero
 
-The collection is designed to feel more like a **luxury editorial catalogue** than a conventional online shop.
+Premium fragrance imagery, layered backgrounds, typography and calls-to-action establish the brand immediately.
 
-✨ Image transitions · 🔍 Product exploration · 🖱️ Hover interactions · 📱 Responsive layouts · 💬 Direct enquiry actions
+### Botanical Atmosphere
 
----
+Decorative botanical elements and atmospheric visual treatments add depth while keeping the fragrance products as the visual focus.
 
-## 🎯 Fragrance Discovery Experience
+### Living Visual Effects
 
-Users can explore fragrances according to different moods and preferences, including:
+Subtle motion, transitions and environmental animation make the interface feel alive without turning the experience into a game-like interface.
 
-🌹 Romantic · 👑 Confident · ✨ Elegant · 🌙 Mysterious · 🌿 Fresh · 🔥 Bold
+### Fragrance Discovery
 
-This transforms the experience from simply **"Here are our perfumes"** into **"Which fragrance represents you?"**
+Visitors can explore fragrances through different moods and preferences, turning product browsing into a more personal discovery experience.
 
----
+### Product Showcase
 
-## 💬 WhatsApp Integration
+Client-supplied perfume photography is presented in an editorial-style collection with responsive layouts and interactive product exploration.
 
-The website integrates WhatsApp directly into the customer journey.
+### WhatsApp Conversion
 
-### 📱 Business WhatsApp
+Business enquiries connect directly to WhatsApp:
 
 **+27 82 466 5064**
 
 ```text
-Discover
-   ↓
-Explore
-   ↓
-Select Fragrance
-   ↓
-Enquire
-   ↓
-WhatsApp
+Discover → Explore → Select → Enquire → WhatsApp
 ```
 
----
+### Responsive Experience
 
-## 📱 Responsive Design
-
-Designed for desktop, laptop, tablet and mobile experiences, with special attention to typography, image scaling, navigation, touch interactions, CTA placement, animation density and performance.
+The experience is designed for desktop, laptop, tablet and mobile screen sizes, with attention to navigation, typography, imagery, touch interaction and animation density.
 
 ---
 
-## 🎨 Visual Design System
+## Technology
 
-The design moves beyond traditional brown/gold luxury styling and uses a contemporary palette inspired by:
-
-```text
-🤍 Ivory
-🌸 Soft Blush
-🌹 Rose
-🍷 Burgundy
-💜 Deep Plum
-🌿 Botanical Green
-🖤 Charcoal
-✨ Champagne Gold
-```
-
----
-
-## ⚙️ Technology
-
-### Frontend
-
-| Technology | Purpose |
+| Technology | Role |
 |---|---|
-| ⚛️ React | Component-based UI |
-| ⚡ Vite | Development & build tooling |
-| 🎨 CSS3 | Visual design & responsive layouts |
-| 📜 JavaScript | Application logic |
-| 🌐 HTML5 | Semantic structure |
-
-### Motion & Interaction
-
-| Technology | Purpose |
-|---|---|
-| 🎞️ Framer Motion | UI transitions |
-| 🎬 GSAP | Advanced animation |
-| ✨ CSS Animations | Lightweight visual effects |
-| 🖱️ Intersection Observer | Scroll-triggered effects |
-
-### Immersive Experience
-
-| Technology | Purpose |
-|---|---|
-| 🌐 Three.js | 3D/WebGL experiences |
-| 🧊 React Three Fiber | React-based 3D rendering |
-| ✨ WebGL | GPU-powered visual effects |
-| 🌫️ Particle systems | Atmospheric effects |
+| ![React](https://cdn.simpleicons.org/react/61DAFB) React | Component-based frontend |
+| ![Vite](https://cdn.simpleicons.org/vite/646CFF) Vite | Development and build tooling |
+| ![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E) JavaScript | Application logic |
+| ![CSS](https://cdn.simpleicons.org/css/1572B6) CSS | Responsive visual system |
+| ![HTML5](https://cdn.simpleicons.org/html5/E34F26) HTML5 | Semantic structure |
+| Three.js | Immersive visual effects where applicable |
+| Framer Motion | UI motion and transitions |
+| GSAP | Advanced animation |
+| GitHub Pages | Deployment |
 
 ---
 
-## 🧩 Component Architecture
+## Component Architecture
 
-The application follows a reusable React component architecture with dedicated components for the hero, navigation, product cards, product modal, fragrance discovery, environmental effects, scroll reveals, WhatsApp actions and footer.
+The application is organised around reusable interface components for navigation, hero presentation, product cards, product exploration, fragrance discovery, visual effects, scroll interactions, WhatsApp actions and footer content.
 
-This makes it easier to add fragrances, modify sections, maintain animations and extend functionality.
+This makes the experience easier to maintain and extend as the fragrance catalogue grows.
 
 ---
 
-## 🚀 Running Locally
+## Performance & UX
+
+The experience is designed around:
+
+- Responsive image presentation
+- Reusable UI components
+- Progressive enhancement
+- Mobile optimisation
+- Efficient visual effects
+- Reduced-motion considerations
+- Clear customer journeys
+- Strong visual hierarchy
+
+---
+
+## Accessibility
+
+The project considers semantic structure, readable contrast, keyboard-friendly controls, responsive typography, accessible interactive elements and reduced-motion preferences.
+
+---
+
+## Local Development
 
 ```bash
 git clone https://github.com/dagg12/Philippine-website.git
@@ -207,16 +182,14 @@ npm run preview
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Philippine-website/
-│
 ├── public/
 │   ├── products/
 │   ├── images/
 │   └── logo.svg
-│
 ├── src/
 │   ├── components/
 │   ├── assets/
@@ -224,7 +197,6 @@ Philippine-website/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
-│
 ├── index.html
 ├── package.json
 ├── vite.config.js
@@ -234,143 +206,105 @@ Philippine-website/
 
 ---
 
-## ⚡ Performance & UX
+## Business Objective
 
-The visual experience is designed with performance in mind through optimised assets, lazy loading, mobile optimisation, GPU-friendly animation, reusable components, intersection-based animations, progressive enhancement and reduced-motion support.
-
----
-
-## ♿ Accessibility
-
-Accessibility considerations include semantic HTML, keyboard-friendly interactions, accessible controls, alternative text, focus states, responsive typography, reduced-motion support and readable contrast.
-
----
-
-## 📈 Business Objective
-
-The website was designed around a real business objective: **turn visitors into conversations.**
+The website was designed around a simple conversion journey:
 
 ```text
-              BRAND
-                ↓
-          VISUAL EXPERIENCE
-                ↓
-        FRAGRANCE DISCOVERY
-                ↓
-          PRODUCT INTEREST
-                ↓
-           WHATSAPP
-                ↓
-           CUSTOMER
+Brand Identity
+      ↓
+Visual Experience
+      ↓
+Fragrance Discovery
+      ↓
+Product Interest
+      ↓
+WhatsApp Enquiry
+      ↓
+Customer Conversation
 ```
 
-This demonstrates how **design and development can support an actual business workflow**.
+This project demonstrates how visual design and frontend development can be combined with a real business communication workflow.
 
 ---
 
-## 💼 Freelance Skills Demonstrated
+## Freelance Skills Demonstrated
 
-### 🎨 Design
+### Design
 
-UI/UX design · visual hierarchy · brand direction · colour systems · typography · responsive layouts · art direction
+UI/UX design · visual hierarchy · typography · colour systems · responsive layouts · art direction · product presentation
 
-### 💻 Development
+### Development
 
-React · Vite · JavaScript · component architecture · responsive CSS · integrations · WebGL · Three.js
+React · Vite · JavaScript · responsive CSS · reusable components · animation · interactive interfaces · deployment
 
-### ✨ Creative Development
+### Business Integration
 
-Motion design · micro-interactions · scroll animations · particle effects · parallax · interactive experiences · visual storytelling
-
-### 📱 Business Integration
-
-WhatsApp integration · conversion-focused design · mobile-first customer journeys · product presentation · business branding
+WhatsApp conversion · customer journey design · product discovery · digital brand presentation
 
 ---
 
-## 👨🏽‍💻 Freelance Developer
+## Developer
 
-### Vhukhudo Kevin Thamaga/Dagg12
+### Dagg12 / Thams Tech World
 
 **Freelance Full-Stack Developer & Digital Solutions Designer**
 
-> **Design + Development + Business Strategy**
+I build professional websites, web applications, business systems, interactive digital experiences and custom software solutions for businesses.
 
-I build professional digital experiences for businesses, including websites, web applications, business systems, UI/UX solutions, interactive experiences and custom digital platforms.
+**Core services:**
 
----
-
-## 🌍 Portfolio
-
-### Live Project
-
-🔗 **[Nare & Philippine — Fragrance House](https://dagg12.github.io/Philippine-website/)**
-
-### GitHub Repository
-
-🔗 **[View the Source Code](https://github.com/Dagg12/Philippine-website)**
+- Business websites
+- React applications
+- Full-stack development
+- UI/UX design
+- Interactive experiences
+- Business systems
+- Digital branding
 
 ---
 
-## 🔒 Copyright & License
+## Portfolio
+
+**Live Project:** [Nare & Philippine — Fragrance House](https://dagg12.github.io/Philippine-website/)
+
+**GitHub:** [Dagg12/Philippine-website](https://github.com/Dagg12/Philippine-website)
+
+---
+
+## Copyright & License
 
 **© 2026 Nare & Philippine Fragrance House. All Rights Reserved.**
 
 This is a **proprietary client project** and is **not open source**.
 
-The repository may be publicly visible for portfolio purposes, but public visibility does not grant permission to:
+Public repository visibility does not grant permission to copy, reproduce, clone, modify for commercial use, redistribute, resell, sublicense or reuse the website, source code, client photography, branding or business materials.
 
-- Copy the website or substantial portions of its source code
-- Reproduce the design or visual implementation
-- Republish or redistribute the project
-- Sell, sublicense or commercially reuse the source code
-- Clone the website for another business
-- Reuse client-provided photographs, branding or business assets
-- Present the work as your own
-- Remove copyright or ownership notices
+Third-party libraries remain subject to their own licenses.
 
-Third-party libraries and dependencies remain subject to their respective licenses.
-
-See the full [`LICENSE`](LICENSE) file for the applicable proprietary terms.
+See [`LICENSE`](LICENSE) for the complete proprietary terms.
 
 ---
 
-## 📌 Project Information
+## Project Information
 
-| | |
+| Property | Details |
 |---|---|
-| 👤 Client | Nare & Philippine Fragrance House |
-| 💼 Type | Freelance Client Project |
-| 🌍 Region | South Africa |
-| 🧴 Industry | Fragrance & Beauty |
-| ⚛️ Frontend | React |
-| ⚡ Build Tool | Vite |
-| 🎨 Design | Custom UI/UX |
-| 📱 Responsive | Yes |
-| ✨ Interactive | Yes |
-| 💬 WhatsApp | Integrated |
-| 🚀 Deployment | GitHub Pages |
-| 🔐 License | Proprietary / All Rights Reserved |
-| 🔗 Status | **Live** |
-
----
-
-## 📬 Work With Me
-
-Looking for a professional website, custom business system or interactive digital experience?
-
-### Let's build it.
-
-**Dagg12**
-
-> *Turning ideas into professional digital experiences.*
+| Client | Nare & Philippine Fragrance House |
+| Project Type | Freelance Client Website |
+| Industry | Fragrance & Beauty |
+| Region | South Africa |
+| Frontend | React + Vite |
+| Design | Custom UI/UX |
+| Responsive | Yes |
+| WhatsApp | +27 82 466 5064 |
+| Deployment | GitHub Pages |
+| License | Proprietary / All Rights Reserved |
+| Status | Live |
 
 ---
 
 <p align="center">
-  <strong>Built with ❤️, creativity, code and attention to detail.</strong>
-</p>
-
-<p align="center">
-  🌐 💻 🎨 ✨ 🚀
+  <strong>Design. Development. Digital Experience.</strong><br>
+  <sub>Built as a professional freelance client project.</sub>
 </p>
