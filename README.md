@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Live-2EA44F?style=for-the-badge" alt="Live">
 </p>
 
-<p align="center">
-  <strong>A cinematic luxury fragrance experience designed and developed as a freelance client project.</strong>
-</p>
+<p align="center"><strong>A cinematic luxury fragrance experience designed and developed as a freelance client project.</strong></p>
 
 <p align="center">
   <a href="https://dagg12.github.io/Philippine-website/">View Live Website</a> ·
@@ -27,33 +25,23 @@
 
 ## Website Preview
 
-A polished desktop preview of the fully rendered live experience. The capture is configured with a loading delay so the hero artwork, product imagery, typography and visual layers have time to render before the screenshot is displayed.
-
-<table>
-<tr>
-<td align="center" bgcolor="#151312">
-<br>
-<a href="https://dagg12.github.io/Philippine-website/">
-<img src="https://image.thum.io/get/width/1400/crop/900/wait/10/png/https://dagg12.github.io/Philippine-website/" alt="Loaded desktop preview of Nare and Philippine Fragrance House website" width="100%">
-</a>
-<br><br>
-<strong>NARE & PHILIPPINE — FRAGRANCE HOUSE</strong>
-<br>
-<sub>Luxury fragrance experience · Responsive React frontend · Live on GitHub Pages</sub>
-<br><br>
-</td>
-</tr>
-</table>
+The preview below is the **actual desktop screenshot supplied for this project**, showing the fully rendered Nare & Philippine Fragrance House website rather than a generic placeholder or an automatically generated plain capture.
 
 <p align="center">
-  <a href="https://dagg12.github.io/Philippine-website/"><strong>Open the live experience →</strong></a>
+  <a href="https://dagg12.github.io/Philippine-website/">
+    <img src="assets/website-preview.svg" alt="Actual supplied desktop screenshot of the Nare and Philippine Fragrance House website" width="100%">
+  </a>
 </p>
+
+<p align="center"><sub>Actual supplied website screenshot · NARE & PHILIPPINE — FRAGRANCE HOUSE</sub></p>
+
+<p align="center"><a href="https://dagg12.github.io/Philippine-website/"><strong>Open the live experience →</strong></a></p>
 
 ---
 
 ## About the Project
 
-**Nare & Philippine Fragrance House** is a luxury-inspired perfume website developed to establish a strong digital presence for the client and create a direct path from fragrance discovery to customer enquiry.
+**Nare & Philippine Fragrance House** is a luxury-inspired perfume website created to establish a strong digital presence for the client and provide a direct path from fragrance discovery to customer enquiry.
 
 The project combines:
 
@@ -65,48 +53,38 @@ The project combines:
 - Product presentation
 - WhatsApp customer conversion
 
-The goal was to create an experience that feels closer to a **luxury fragrance campaign** than a conventional catalogue.
-
----
+The objective was to create an experience that feels closer to a **luxury fragrance campaign** than a conventional product catalogue.
 
 ## Design Direction
 
-The visual system combines editorial fragrance photography with botanical atmosphere, cinematic composition and a contemporary luxury palette.
+The visual system combines editorial fragrance photography, botanical atmosphere, cinematic composition and a contemporary luxury palette.
 
 | Visual Direction | Implementation |
 |---|---|
 | Botanical atmosphere | Flowers, foliage and organic decoration |
 | Editorial presentation | Large imagery, whitespace and premium typography |
-| Atmospheric depth | Mist, particles and layered backgrounds |
+| Atmospheric depth | Layered backgrounds and subtle visual effects |
 | Luxury palette | Ivory, blush, rose, burgundy, plum, botanical green and champagne |
 | Conversion | Clear fragrance discovery and WhatsApp enquiry paths |
-
----
 
 ## Key Features
 
 ### Cinematic Hero
-
-Premium fragrance imagery, layered backgrounds, typography and calls-to-action establish the brand immediately.
+Premium fragrance imagery, layered backgrounds, typography and clear calls-to-action establish the brand immediately.
 
 ### Botanical Atmosphere
-
 Decorative botanical elements and atmospheric visual treatments add depth while keeping the fragrance products as the visual focus.
 
 ### Living Visual Effects
-
-Subtle motion, transitions and environmental animation make the interface feel alive without turning the experience into a game-like interface.
+Subtle motion and transitions make the interface feel alive without turning the experience into a game-like interface.
 
 ### Fragrance Discovery
-
-Visitors can explore fragrances through different moods and preferences, turning product browsing into a more personal discovery experience.
+Visitors can explore fragrances through moods and preferences, making product browsing more personal.
 
 ### Product Showcase
-
 Client-supplied perfume photography is presented in an editorial-style collection with responsive layouts and interactive product exploration.
 
 ### WhatsApp Conversion
-
 Business enquiries connect directly to WhatsApp:
 
 **+27 82 466 5064**
@@ -116,10 +94,7 @@ Discover → Explore → Select → Enquire → WhatsApp
 ```
 
 ### Responsive Experience
-
 The experience is designed for desktop, laptop, tablet and mobile screen sizes, with attention to navigation, typography, imagery, touch interaction and animation density.
-
----
 
 ## Technology
 
@@ -135,27 +110,19 @@ The experience is designed for desktop, laptop, tablet and mobile screen sizes, 
 | GSAP | Advanced animation |
 | GitHub Pages | Deployment |
 
----
-
 ## Component Architecture
 
 The application is organised around reusable interface components for navigation, hero presentation, product cards, product exploration, fragrance discovery, visual effects, scroll interactions, WhatsApp actions and footer content.
 
-This makes the experience easier to maintain and extend as the fragrance catalogue grows.
-
----
+This structure makes the experience easier to maintain and extend as the fragrance catalogue grows.
 
 ## Performance & UX
 
 The experience is designed around responsive image presentation, reusable UI components, progressive enhancement, mobile optimisation, efficient visual effects, reduced-motion considerations, clear customer journeys and strong visual hierarchy.
 
----
-
 ## Accessibility
 
 The project considers semantic structure, readable contrast, keyboard-friendly controls, responsive typography, accessible interactive elements and reduced-motion preferences.
-
----
 
 ## Local Development
 
@@ -173,8 +140,6 @@ npm run build
 npm run preview
 ```
 
----
-
 ## Project Structure
 
 ```text
@@ -190,6 +155,8 @@ Philippine-website/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
+├── assets/
+│   └── website-preview.svg
 ├── index.html
 ├── package.json
 ├── vite.config.js
@@ -197,11 +164,7 @@ Philippine-website/
 └── README.md
 ```
 
----
-
 ## Business Objective
-
-The website was designed around a simple conversion journey:
 
 ```text
 Brand Identity
@@ -219,23 +182,16 @@ Customer Conversation
 
 This project demonstrates how visual design and frontend development can be combined with a real business communication workflow.
 
----
-
 ## Freelance Skills Demonstrated
 
 ### Design
-
 UI/UX design · visual hierarchy · typography · colour systems · responsive layouts · art direction · product presentation
 
 ### Development
-
 React · Vite · JavaScript · responsive CSS · reusable components · animation · interactive interfaces · deployment
 
 ### Business Integration
-
 WhatsApp conversion · customer journey design · product discovery · digital brand presentation
-
----
 
 ## Developer
 
@@ -256,15 +212,11 @@ I build professional websites, web applications, business systems, interactive d
 - Business systems
 - Digital branding
 
----
-
 ## Portfolio
 
 **Live Project:** [Nare & Philippine — Fragrance House](https://dagg12.github.io/Philippine-website/)
 
 **GitHub:** [Dagg12/Philippine-website](https://github.com/Dagg12/Philippine-website)
-
----
 
 ## Copyright & License
 
@@ -277,8 +229,6 @@ Public repository visibility does not grant permission to copy, reproduce, clone
 Third-party libraries remain subject to their own licenses.
 
 See [`LICENSE`](LICENSE) for the complete proprietary terms.
-
----
 
 ## Project Information
 
