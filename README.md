@@ -70,9 +70,6 @@ The visual language combines **modern luxury, editorial photography and botanica
 
 ### 🌺 Interactive Botanical Atmosphere
 
-- 🌹 Flowers
-- 🌿 Botanical elements
-- 🌸 Floating petals
 - ✨ Ambient particles
 - 🌫️ Atmospheric effects
 - 💡 Soft lighting
@@ -293,7 +290,7 @@ WhatsApp integration · conversion-focused design · mobile-first customer journ
 
 ## 👨🏽‍💻 Freelance Developer
 
-### Thams Tech World
+### Vhukhudo Kevin Thamaga/Dagg12
 
 **Freelance Full-Stack Developer & Digital Solutions Designer**
 
@@ -364,7 +361,7 @@ Looking for a professional website, custom business system or interactive digita
 
 ### Let's build it.
 
-**Thams Tech World**
+**Dagg12**
 
 > *Turning ideas into professional digital experiences.*
 
