@@ -27,25 +27,27 @@
 
 ## Website Preview
 
-The following previews are generated from the live deployed website so visitors can see the actual project directly from the repository.
+The preview below is configured to capture the deployed website **after a loading delay**, giving the hero artwork, typography, product imagery and visual composition time to render before the screenshot is generated.
 
-### Desktop Experience
-
-<p align="center">
-  <a href="https://dagg12.github.io/Philippine-website/">
-    <img src="https://image.thum.io/get/width/1200/crop/900/png/https://dagg12.github.io/Philippine-website/" alt="Nare and Philippine Fragrance House desktop website screenshot" width="100%">
-  </a>
-</p>
-
-### Mobile Experience
+### Desktop — Loaded Experience
 
 <p align="center">
   <a href="https://dagg12.github.io/Philippine-website/">
-    <img src="https://image.thum.io/get/width/600/crop/1200/png/https://dagg12.github.io/Philippine-website/" alt="Nare and Philippine Fragrance House mobile website screenshot" width="55%">
+    <img src="https://image.thum.io/get/width/1400/crop/900/wait/10/png/https://dagg12.github.io/Philippine-website/" alt="Loaded desktop screenshot of Nare and Philippine Fragrance House website" width="100%">
   </a>
 </p>
 
-> **Live preview:** [dagg12.github.io/Philippine-website](https://dagg12.github.io/Philippine-website/)
+### Mobile — Loaded Experience
+
+<p align="center">
+  <a href="https://dagg12.github.io/Philippine-website/">
+    <img src="https://image.thum.io/get/width/600/crop/1200/wait/10/png/https://dagg12.github.io/Philippine-website/" alt="Loaded mobile screenshot of Nare and Philippine Fragrance House website" width="55%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://dagg12.github.io/Philippine-website/">Open the fully deployed website →</a>
+</p>
 
 ---
 
@@ -145,16 +147,7 @@ This makes the experience easier to maintain and extend as the fragrance catalog
 
 ## Performance & UX
 
-The experience is designed around:
-
-- Responsive image presentation
-- Reusable UI components
-- Progressive enhancement
-- Mobile optimisation
-- Efficient visual effects
-- Reduced-motion considerations
-- Clear customer journeys
-- Strong visual hierarchy
+The experience is designed around responsive image presentation, reusable UI components, progressive enhancement, mobile optimisation, efficient visual effects, reduced-motion considerations, clear customer journeys and strong visual hierarchy.
 
 ---
 
@@ -246,8 +239,9 @@ WhatsApp conversion · customer journey design · product discovery · digital b
 
 ## Developer
 
-### Dagg12 / Thams Tech World
+### Dagg12
 
+**Vhukhudo Kevin Thamaga**  
 **Freelance Full-Stack Developer & Digital Solutions Designer**
 
 I build professional websites, web applications, business systems, interactive digital experiences and custom software solutions for businesses.
@@ -306,5 +300,5 @@ See [`LICENSE`](LICENSE) for the complete proprietary terms.
 
 <p align="center">
   <strong>Design. Development. Digital Experience.</strong><br>
-  <sub>Built as a professional freelance client project.</sub>
+  <sub>Built by Dagg12 / Vhukhudo Kevin Thamaga.</sub>
 </p>
