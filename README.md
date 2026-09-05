@@ -27,26 +27,26 @@
 
 ## Website Preview
 
-The preview below is configured to capture the deployed website **after a loading delay**, giving the hero artwork, typography, product imagery and visual composition time to render before the screenshot is generated.
+A polished desktop preview of the fully rendered live experience. The capture is configured with a loading delay so the hero artwork, product imagery, typography and visual layers have time to render before the screenshot is displayed.
 
-### Desktop — Loaded Experience
+<table>
+<tr>
+<td align="center" bgcolor="#151312">
+<br>
+<a href="https://dagg12.github.io/Philippine-website/">
+<img src="https://image.thum.io/get/width/1400/crop/900/wait/10/png/https://dagg12.github.io/Philippine-website/" alt="Loaded desktop preview of Nare and Philippine Fragrance House website" width="100%">
+</a>
+<br><br>
+<strong>NARE & PHILIPPINE — FRAGRANCE HOUSE</strong>
+<br>
+<sub>Luxury fragrance experience · Responsive React frontend · Live on GitHub Pages</sub>
+<br><br>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://dagg12.github.io/Philippine-website/">
-    <img src="https://image.thum.io/get/width/1400/crop/900/wait/10/png/https://dagg12.github.io/Philippine-website/" alt="Loaded desktop screenshot of Nare and Philippine Fragrance House website" width="100%">
-  </a>
-</p>
-
-### Mobile — Loaded Experience
-
-<p align="center">
-  <a href="https://dagg12.github.io/Philippine-website/">
-    <img src="https://image.thum.io/get/width/600/crop/1200/wait/10/png/https://dagg12.github.io/Philippine-website/" alt="Loaded mobile screenshot of Nare and Philippine Fragrance House website" width="55%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://dagg12.github.io/Philippine-website/">Open the fully deployed website →</a>
+  <a href="https://dagg12.github.io/Philippine-website/"><strong>Open the live experience →</strong></a>
 </p>
 
 ---
