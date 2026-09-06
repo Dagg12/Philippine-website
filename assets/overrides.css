@@ -5,7 +5,7 @@
 .site-shell::before {
   background:
     linear-gradient(180deg, rgba(16, 10, 9, 0.48), rgba(16, 10, 9, 0.12) 20%, rgba(20, 16, 15, 0.36) 100%),
-    url("../products/background.png") center center / cover no-repeat;
+    url("../products/background-20260906.png") center center / cover no-repeat;
   background-attachment: fixed;
 }
 
