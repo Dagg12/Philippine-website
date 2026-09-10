@@ -1,4 +1,4 @@
-# Nare & Philippine — Fragrance House
+# Nare & Philippine Fragrance House
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Freelance%20Client-8B5E83?style=for-the-badge" alt="Freelance Client Project">
